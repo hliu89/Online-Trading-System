@@ -1,1 +1,0 @@
-# Online Trading System
